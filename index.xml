@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tinygood博客</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Tinygood博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 20 Nov 2022 19:36:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>New Post</title>
+      <link>http://example.org/new-post/</link>
+      <pubDate>Sun, 20 Nov 2022 19:36:50 +0800</pubDate>
+      
+      <guid>http://example.org/new-post/</guid>
+      <description>&lt;p&gt;This is a new posst&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/first-post/</link>
+      <pubDate>Sun, 20 Nov 2022 18:46:31 +0800</pubDate>
+      
+      <guid>http://example.org/first-post/</guid>
+      <description>&lt;p&gt;First in this Blog&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
