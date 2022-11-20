@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>New Post</title>
-      <link>http://example.org/new-post/</link>
+      <title>TEST Post</title>
+      <link>http://example.org/test-post/</link>
       <pubDate>Sun, 20 Nov 2022 19:36:50 +0800</pubDate>
       
-      <guid>http://example.org/new-post/</guid>
-      <description>&lt;p&gt;This is a new posst&lt;/p&gt;
+      <guid>http://example.org/test-post/</guid>
+      <description>&lt;p&gt;This is a test post&lt;/p&gt;
 </description>
     </item>
     
