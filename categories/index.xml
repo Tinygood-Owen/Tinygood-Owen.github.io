@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tinygood博客</title>
-    <link>http://example.org/categories/</link>
+    <link>http://tinygood-owen.github.io/categories/</link>
     <description>Recent content in Categories on Tinygood博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tinygood-owen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>TEST Post</title>
-      <link>http://example.org/test-post/</link>
+      <link>http://tinygood-owen.github.io/test-post/</link>
       <pubDate>Sun, 20 Nov 2022 19:36:50 +0800</pubDate>
       
-      <guid>http://example.org/test-post/</guid>
+      <guid>http://tinygood-owen.github.io/test-post/</guid>
       <description>&lt;p&gt;This is a test post&lt;/p&gt;
 </description>
     </item>
@@ -27,10 +27,10 @@
     
     <item>
       <title>First Post</title>
-      <link>http://example.org/first-post/</link>
+      <link>http://tinygood-owen.github.io/first-post/</link>
       <pubDate>Sun, 20 Nov 2022 18:46:31 +0800</pubDate>
       
-      <guid>http://example.org/first-post/</guid>
+      <guid>http://tinygood-owen.github.io/first-post/</guid>
       <description>&lt;p&gt;First in this Blog&lt;/p&gt;
 </description>
     </item>
